@@ -1,8 +1,8 @@
 message: Please cite this software using these metadata.
-title:
+title: Full Dev
 authors:
-  - family-names: 
-    given-names: 
+  - family-names: Lázaro Oliveira Matos 
+    given-names: Luan
   - family-names: 
     given-names: 
   - family-names: 
@@ -15,15 +15,12 @@ authors:
     given-names: 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Jeunon de Alencar
+    given-names: Bernardo
 keywords:
+  - Ensino, Suporte, Comunidade, Desenvolvimento, Aprendizado, Programação
   - 
-  - 
-repository-code: 
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/Full-Dev-
 version: 1.0.0
-date-released: 2023-10-31
+date-released: data de entrega do trabalho, no formato aaaa-mm-dd
+
